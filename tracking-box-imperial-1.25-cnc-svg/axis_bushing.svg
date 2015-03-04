@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40.8mm"
+   height="60.8mm"
+   viewBox="0 0 40.8 60.8"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="axis_bushing-retooled.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1097"
+     inkscape:window-height="773"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="2.1909356"
+     inkscape:cx="28.123633"
+     inkscape:cy="108.92207"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999998999999998;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 40.4,0.4 0,60 -40,0 0,-60 z m -7.976344,4.624001 0.187014,-0.728375 0.362279,-0.658981 0.51478,-0.548186 0.634933,-0.40294 0.715194,-0.23238 0.750516,-0.04722 0.738679,0.14091 0.68043,0.320186 0.579426,0.479344 L 38.02892,3.954738 38.30575,4.65393 38.4,5.4 38.30575,6.146069 38.02892,6.845261 37.586907,7.45364 37.007481,7.932984 36.327051,8.25317 35.588372,8.39408 34.837856,8.34686 34.122662,8.11448 33.487729,7.71154 32.972949,7.163354 32.61067,6.504373 32.423656,5.775998 z M 38.02892,53.954739 38.30575,54.653931 38.4,55.4 l -0.09425,0.746069 -0.27683,0.699192 -0.442013,0.608379 -0.579426,0.479344 -0.68043,0.320186 -0.738679,0.14091 -0.750516,-0.04722 -0.715194,-0.23238 -0.634933,-0.40294 -0.51478,-0.548186 -0.362279,-0.658981 -0.187014,-0.728375 0,-0.751998 0.187014,-0.728375 0.362279,-0.658981 0.51478,-0.548186 0.634933,-0.40294 0.715194,-0.23238 0.750516,-0.04722 0.738679,0.14091 0.68043,0.320186 0.579426,0.479344 z M 8.305749,6.146069 8.02892,6.845261 7.586906,7.45364 7.00748,7.932984 6.327051,8.25317 5.588372,8.39408 4.837856,8.34686 4.122662,8.11448 3.487729,7.71154 2.972948,7.163354 2.61067,6.504373 2.423657,5.775998 2.423657,5.024 2.61067,4.295625 2.972948,3.636644 3.487729,3.088458 4.122662,2.685518 4.837856,2.453138 5.588372,2.405918 6.327051,2.546828 7.00748,2.867014 7.586906,3.346358 8.02892,3.954737 8.305749,4.653929 8.4,5.4 z M 8.02892,56.845261 7.586906,57.45364 7.00748,57.932984 6.327051,58.25317 5.588372,58.39408 4.837856,58.34686 4.122662,58.11448 3.487729,57.71154 2.972948,57.163354 2.61067,56.504373 2.423657,55.775998 l 0,-0.751998 0.187013,-0.728375 0.362278,-0.658981 0.514781,-0.548186 0.634933,-0.40294 0.715194,-0.23238 0.750516,-0.04722 0.738679,0.14091 0.680429,0.320186 0.579426,0.479344 0.442014,0.608379 0.276829,0.699192 L 8.4,55.4 8.30575,56.146069 z"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+     id="path6" />
+  <path
+     sodipodi:type="arc"
+     style="fill:none;stroke:#001919;stroke-width:1.0629921;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path2985"
+     sodipodi:cx="63.899639"
+     sodipodi:cy="99.272659"
+     sodipodi:rx="58.422527"
+     sodipodi:ry="55.912186"
+     d="m 122.32217,99.272659 a 58.422527,55.912186 0 1 1 -116.8450582,0 58.422527,55.912186 0 1 1 116.8450582,0 z"
+     transform="matrix(0.27568513,0,0,0.28806282,2.8694817,1.7989337)" />
+</svg>
