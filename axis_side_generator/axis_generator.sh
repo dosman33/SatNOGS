@@ -73,6 +73,7 @@ RLULNB=`echo "13.8 $HEIGHT - p" | dc`
 echo "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>
 
 <!-- Generated with $0 on `date` -->
+<!-- License of script and this part is GPLv2 -->
 <!-- Get the latest version of the script that generated this file and other SatNOGS stuffs here: -->
 <!-- https://github.com/dosman33/SatNOGS -->
 
